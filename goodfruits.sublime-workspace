@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"self.susp",
+				"self.susp_file"
+			],
+			[
+				"self.src",
+				"self.src_file"
+			],
+			[
+				"os",
+				"os.path.isdir"
+			],
+			[
+				"fold",
+				"folderName"
+			],
+			[
+				"line",
+				"lineCount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Set Syntax:C",
+		"selected_items":
+		[
+			[
+				"Set Syntax:C",
+				"Set Syntax: C++"
+			],
+			[
+				"Pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax:C++",
+				"Set Syntax: C++"
+			],
+			[
+				"set syntax:c++",
+				"Set Syntax: C++"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax C++",
+				"Set Syntax: C++"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn",
+				"Set Syntax: SQL"
+			],
+			[
+				"set syntax:php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jo/Desktop/GitHub/goodfruits/img",
+		"/Users/Jo/Desktop/GitHub/goodfruits/js"
+	],
+	"file_history":
+	[
+		"/Users/Jo/Desktop/GitHub/MatrixVR/README.md",
+		"/Users/Jo/Desktop/.localized",
+		"/Users/Jo/Public/사파리 가독성.css",
+		"/Users/Jo/Public/SafariStylesheet.css",
+		"/Users/Jo/Desktop/dovelet/powerofx.cpp",
+		"/Users/Jo/Desktop/VIM/myconsole.cpp",
+		"/Users/Jo/Desktop/Post.html",
+		"/Users/Jo/Downloads/Consolas-맑은고딕.reg",
+		"/Users/Jo/Downloads/fltcmp.1.out",
+		"/Users/Jo/Downloads/fltcmp.1.in",
+		"/Users/Jo/Desktop/helloworld.c",
+		"/Users/Jo/Desktop/untitled",
+		"/Users/Jo/Desktop/Programming Language/Perl/22.pl",
+		"/Users/Jo/Desktop/Programming Language/Perl/midterm.py",
+		"/Users/Jo/Desktop/Programming Language/Python/hw22.py",
+		"/Users/Jo/Desktop/Programming Language/Python/3.py",
+		"/Users/Jo/Desktop/Programming Language/Python/hw3.py",
+		"/Users/Jo/Desktop/Programming Language/Python/output.txt",
+		"/Users/Jo/Desktop/Programming Language/Perl/midterm.pl",
+		"/Users/Jo/Desktop/Programming Language/Perl/3.pl",
+		"/Users/Jo/Desktop/Programming Language/Python/globtest.py",
+		"/Users/Jo/Desktop/OS/hw1.c",
+		"/Users/Jo/Desktop/OS/hw3.c",
+		"/Users/Jo/Desktop/OS/race.txt",
+		"/Users/Jo/Desktop/Programming Language/Python/julie/input.txt",
+		"/Users/Jo/Desktop/Programming Language/Python/all_files.txt",
+		"/Users/Jo/Desktop/Programming Language/Python/22.py",
+		"/Users/Jo/Desktop/Programming Language/Python/pan13-text-alignment-training-corpus-2013-01-21-sskang/pan12-text-alignment-baseline.py",
+		"/Users/Jo/Desktop/Programming Language/Python/1.py",
+		"/Users/Jo/Desktop/Programming Language/Python/21.py",
+		"/Users/Jo/Desktop/Programming Language/Perl/output.txt",
+		"/Users/Jo/Desktop/Programming Language/Perl/input.txt",
+		"/Users/Jo/Desktop/Programming Language/Python/coffee.py",
+		"/Users/Jo/Desktop/Programming Language/1.pl",
+		"/Users/Jo/Desktop/Programming Language/Python/sample.py",
+		"/Users/Jo/Desktop/Programming Language/Python/practice1.py",
+		"/Users/Jo/Desktop/Programming Language/Python/example1.py",
+		"/Users/Jo/Desktop/Programming Language/Python/test.py",
+		"/Users/Jo/Desktop/Programming Language/Python_lecture/Python-마무리.txt",
+		"/Users/Jo/Desktop/Programming Language/hw1.pl",
+		"/Users/Jo/Desktop/Programming Language/22.pl",
+		"/Users/Jo/Desktop/Programming Language/input.txt",
+		"/Users/Jo/Desktop/Programming Language/21.pl",
+		"/Users/Jo/Desktop/Programming Language/3.pl",
+		"/Users/Jo/Desktop/Programming Language/hw6.pl",
+		"/Users/Jo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/mampstack-5.4.23-0/apache2/htdocs/Grubie/edit.php",
+		"/Users/Jo/Downloads/bootstrap/js/bootstrap.js",
+		"/Users/Jo/Desktop/STU/DrawWaveForm.lua",
+		"/Users/Jo/Desktop/STU/BookmarkDiagnosticView.lua",
+		"/Users/Jo/Desktop/STU/xml.lua",
+		"/Users/Jo/Desktop/STU/TextToFlow.lua",
+		"/Users/Jo/Desktop/STU/TestHistory.lua",
+		"/Users/Jo/Desktop/STU/TabView.lua",
+		"/Users/Jo/Desktop/STU/ShopView.lua",
+		"/Users/Jo/Desktop/STU/ShopView_back.lua",
+		"/Users/Jo/Desktop/STU/SettingsView.lua",
+		"/Users/Jo/Desktop/STU/SettingsView_back.lua",
+		"/Users/Jo/Desktop/STU/ScaleManager.lua",
+		"/Users/Jo/Desktop/STU/Remain.lua",
+		"/Users/Jo/Desktop/STU/PurchaseHistory.lua",
+		"/Users/Jo/Desktop/STU/PracticeView.lua",
+		"/Users/Jo/Desktop/STU/PageView.lua",
+		"/Users/Jo/Desktop/STU/PageListView.lua",
+		"/Users/Jo/Desktop/STU/main.lua",
+		"/Users/Jo/Desktop/STU/BookmarkView.lua",
+		"/Users/Jo/Desktop/STU/CategoryView.lua",
+		"/Users/Jo/Desktop/STU/config.lua",
+		"/Users/Jo/Desktop/STU/ConfigView.lua",
+		"/Users/Jo/Desktop/STU/CreditView.lua",
+		"/Users/Jo/Desktop/STU/DiagnosticView.lua",
+		"/Users/Jo/Desktop/STU/HelpView.lua",
+		"/Users/Jo/Desktop/STU/LoadingView.lua",
+		"/Users/Jo/Desktop/STU/InformationView.lua",
+		"/Users/Jo/Desktop/STU/MultipartFormData.lua",
+		"/Users/Jo/Desktop/STU/STU.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "goodfruits.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
