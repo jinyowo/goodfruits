@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"max-",
+				"max-height"
+			],
+			[
 				"file",
 				"fileList"
 			],
@@ -31,16 +35,27 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 27686,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/agency.css",
+			"settings":
+			{
+				"buffer_size": 16417,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
-	"build_system_choices":
-	[
-	],
-	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "Set Syntax:C",
 		"selected_items":
 		[
 			[
@@ -112,11 +127,7 @@
 	},
 	"console":
 	{
-		"height": 139.0,
-		"history":
-		[
-			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-		]
+		"height": 139.0
 	},
 	"distraction_free":
 	{
@@ -127,13 +138,12 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/Jo/Desktop/GitHub/goodfruits/img",
-		"/Users/Jo/Desktop/GitHub/goodfruits/js"
-	],
 	"file_history":
 	[
+		"/C/Users/hjin4_000/Documents/node/node.basic.js",
+		"/C/Users/hjin4_000/Documents/bootstrap/goodfruits/map.html",
+		"/C/Users/hjin4_000/Desktop/startbootstrap-stylish-portfolio-1.0.3/index.html",
+		"/C/Users/hjin4_000/Desktop/startbootstrap-stylish-portfolio-1.0.3/css/stylish-portfolio.css",
 		"/Users/Jo/Desktop/GitHub/MatrixVR/README.md",
 		"/Users/Jo/Desktop/.localized",
 		"/Users/Jo/Public/사파리 가독성.css",
@@ -244,8 +254,65 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 27686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15988,
+								15988
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4699.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/agency.css",
+					"settings":
+					{
+						"buffer_size": 16417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13974,
+								13974
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10729.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -288,8 +355,6 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
-	"project": "goodfruits.sublime-project",
 	"replace":
 	{
 		"height": 42.0
@@ -298,7 +363,6 @@
 	"select_file":
 	{
 		"height": 0.0,
-		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -307,32 +371,15 @@
 	"select_project":
 	{
 		"height": 0.0,
-		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
-	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"selected_group": 0,
-	"settings":
-	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 196.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
 }
