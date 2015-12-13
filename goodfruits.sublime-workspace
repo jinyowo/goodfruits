@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"max-",
+				"max-height"
+			],
+			[
 				"file",
 				"fileList"
 			],
@@ -35,7 +39,11 @@
 			"file": "index.html",
 			"settings":
 			{
+<<<<<<< HEAD
 				"buffer_size": 27037,
+=======
+				"buffer_size": 27686,
+>>>>>>> origin/master
 				"line_ending": "Windows"
 			}
 		},
@@ -43,6 +51,7 @@
 			"file": "css/agency.css",
 			"settings":
 			{
+<<<<<<< HEAD
 				"buffer_size": 16117,
 				"line_ending": "Windows"
 			}
@@ -60,11 +69,18 @@
 			"settings":
 			{
 				"buffer_size": 370,
+=======
+				"buffer_size": 16417,
+>>>>>>> origin/master
 				"line_ending": "Windows"
 			}
 		}
 	],
+<<<<<<< HEAD
 	"build_system": "Packages/SublimeText-Nodejs/Nodejs.sublime-build",
+=======
+	"build_system": "",
+>>>>>>> origin/master
 	"command_palette":
 	{
 		"height": 392.0,
@@ -160,6 +176,7 @@
 	},
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/C/AutoSet9/public_html/goodfruits/js/cbpAnimatedHeader.js",
 		"/C/AutoSet9/public_html/goodfruits/js/bootstrap.js",
 		"/C/AutoSet9/public_html/goodfruits/js/agency.js",
@@ -169,6 +186,12 @@
 		"/C/AutoSet9/public_html/goodfruits/js/jqBootstrapValidation.js",
 		"/C/AutoSet9/public_html/goodfruits/js/cbpAnimatedHeader.min.js",
 		"/C/AutoSet9/public_html/goodfruits/js/jquery.js",
+=======
+		"/C/Users/hjin4_000/Documents/node/node.basic.js",
+		"/C/Users/hjin4_000/Documents/bootstrap/goodfruits/map.html",
+		"/C/Users/hjin4_000/Desktop/startbootstrap-stylish-portfolio-1.0.3/index.html",
+		"/C/Users/hjin4_000/Desktop/startbootstrap-stylish-portfolio-1.0.3/css/stylish-portfolio.css",
+>>>>>>> origin/master
 		"/Users/Jo/Desktop/GitHub/MatrixVR/README.md",
 		"/Users/Jo/Desktop/.localized",
 		"/Users/Jo/Public/사파리 가독성.css",
@@ -292,7 +315,11 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 2,
+=======
+			"selected": 0,
+>>>>>>> origin/master
 			"sheets":
 			[
 				{
@@ -300,15 +327,24 @@
 					"file": "index.html",
 					"settings":
 					{
+<<<<<<< HEAD
 						"buffer_size": 27037,
+=======
+						"buffer_size": 27686,
+>>>>>>> origin/master
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								5327,
 								5327
+=======
+								15988,
+								15988
+>>>>>>> origin/master
 							]
 						],
 						"settings":
@@ -318,7 +354,11 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 3125.0,
+=======
+						"translation.y": 5329.0,
+>>>>>>> origin/master
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -328,15 +368,24 @@
 					"file": "css/agency.css",
 					"settings":
 					{
+<<<<<<< HEAD
 						"buffer_size": 16117,
+=======
+						"buffer_size": 16417,
+>>>>>>> origin/master
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								7297,
 								7297
+=======
+								13974,
+								13974
+>>>>>>> origin/master
 							]
 						],
 						"settings":
@@ -346,6 +395,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 6007.0,
 						"zoom_level": 1.0
 					},
@@ -401,6 +451,9 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+=======
+						"translation.y": 10729.0,
+>>>>>>> origin/master
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -472,6 +525,10 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
+<<<<<<< HEAD
 	"side_bar_width": 196.0,
+=======
+	"side_bar_width": 278.0,
+>>>>>>> origin/master
 	"status_bar_visible": true
 }

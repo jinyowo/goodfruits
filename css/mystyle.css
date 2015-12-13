@@ -1,0 +1,25 @@
+/*!	
+*	custom style sheet
+*/
+
+
+@font-face { 
+    font-family: 'NanumBarunGothic';
+    src: url(../fonts/NanumBarunGothic.ttf) format('truetype');
+}
+@font-face { 
+    font-family: 'NanumBarunGothicUltraLight';
+    src: url(../fonts/NanumBarunGothicUltraLight.ttf) format('truetype');
+}
+
+.logo-img {
+	padding: 0px
+	max-width: 100px;
+	max-height: 50px;
+
+}
+
+.map-style {
+	width: 500px;
+	height: 400px;
+}
