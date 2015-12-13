@@ -31,18 +31,53 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 27037,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/agency.css",
+			"settings":
+			{
+				"buffer_size": 16117,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/heojun/Documents/node/basic/node.server.js",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/heojun/AppData/Roaming/Sublime Text 2/Packages/SublimeText-Nodejs/Nodejs.sublime-build",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Windows"
+			}
+		}
 	],
-	"build_system": "",
-	"build_system_choices":
-	[
-	],
-	"build_varint": "",
+	"build_system": "Packages/SublimeText-Nodejs/Nodejs.sublime-build",
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "Set Syntax:C",
 		"selected_items":
 		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"add ",
+				"Package Control: Add Repository"
+			],
 			[
 				"Set Syntax:C",
 				"Set Syntax: C++"
@@ -108,15 +143,11 @@
 				"About"
 			]
 		],
-		"width": 593.0
+		"width": 296.0
 	},
 	"console":
 	{
-		"height": 139.0,
-		"history":
-		[
-			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-		]
+		"height": 139.0
 	},
 	"distraction_free":
 	{
@@ -127,13 +158,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/Jo/Desktop/GitHub/goodfruits/img",
-		"/Users/Jo/Desktop/GitHub/goodfruits/js"
-	],
 	"file_history":
 	[
+		"/C/AutoSet9/public_html/goodfruits/js/cbpAnimatedHeader.js",
+		"/C/AutoSet9/public_html/goodfruits/js/bootstrap.js",
+		"/C/AutoSet9/public_html/goodfruits/js/agency.js",
+		"/C/AutoSet9/public_html/goodfruits/js/classie.js",
+		"/C/AutoSet9/public_html/goodfruits/less/agency.less",
+		"/C/AutoSet9/public_html/goodfruits/js/contact_me.js",
+		"/C/AutoSet9/public_html/goodfruits/js/jqBootstrapValidation.js",
+		"/C/AutoSet9/public_html/goodfruits/js/cbpAnimatedHeader.min.js",
+		"/C/AutoSet9/public_html/goodfruits/js/jquery.js",
 		"/Users/Jo/Desktop/GitHub/MatrixVR/README.md",
 		"/Users/Jo/Desktop/.localized",
 		"/Users/Jo/Public/사파리 가독성.css",
@@ -220,6 +255,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"C:\\AutoSet9\\public_html\\wordpress"
 		]
 	},
 	"find_state":
@@ -227,6 +263,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"portfolio",
+			"color",
+			"active",
+			"portfolio-link",
+			"f6bf01",
+			"fec503",
+			"active",
+			"#fed",
+			"#fed136",
+			"page-scroll"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -234,6 +280,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"900000",
+			"#026400"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -244,8 +292,119 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 27037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5327,
+								5327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3125.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/agency.css",
+					"settings":
+					{
+						"buffer_size": 16117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7297,
+								7297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6007.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/heojun/Documents/node/basic/node.server.js",
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/heojun/AppData/Roaming/Sublime Text 2/Packages/SublimeText-Nodejs/Nodejs.sublime-build",
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -288,17 +447,14 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
-	"project": "goodfruits.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
-		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -307,32 +463,15 @@
 	"select_project":
 	{
 		"height": 0.0,
-		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
-	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"last_filter": "",
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"selected_group": 0,
-	"settings":
-	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 196.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
+	"status_bar_visible": true
 }
