@@ -16,6 +16,7 @@
 
     <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
+    <link href="css/mystyle.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -46,7 +47,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">[로고]</a>
+                <a class="page-scroll" href="#page-top">
+                <img src="img/myimg/roundicons.jpg" class="logo-img" alt="">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -263,9 +266,11 @@
                 <div class="col-lg-12">
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
-                            <div class="col-md-6">
-                            <table cellpadding="0" cellspacing="0" width="536"> <tr> <td style="border:1px solid #cecece;"><a href="http://map.naver.com/?menu=location&mapMode=0&lat=37.5192242&lng=126.9003248&dlevel=11&__fromRestorer=true&__pinOnly=false&query=&searchCoord=&mpx=37.5187846%2C126.9014418%3AZ11%3A0.0271820%2C0.0113995&tab=1&pinId=37288788&pinType=site&enc=b64" target="_blank"><img src="http://prt.map.naver.com/mashupmap/print?key=p1449648414887_-598016622" width="534" height="418" alt="지도 크게 보기" title="지도 크게 보기" border="0" style="vertical-align:top;"/></a></td> </tr> <tr> <td>  <table cellpadding="0" cellspacing="0" width="100%">  <tr>  <td height="30" bgcolor="#f9f9f9" align="left" style="padding-left:9px; border-left:1px solid #cecece; border-bottom:1px solid #cecece;">   <span style="font-family: tahoma; font-size: 11px; color:#666;">2015.12.9</span>&nbsp;<span style="font-size: 11px; color:#e5e5e5;">|</span>&nbsp;<a style="font-family: dotum,sans-serif; font-size: 11px; color:#666; text-decoration: none; letter-spacing: -1px;" href="http://map.naver.com/?menu=location&mapMode=0&lat=37.5192242&lng=126.9003248&dlevel=11&__fromRestorer=true&__pinOnly=false&query=&searchCoord=&mpx=37.5187846%2C126.9014418%3AZ11%3A0.0271820%2C0.0113995&tab=1&pinId=37288788&pinType=site&enc=b64" target="_blank">지도 크게 보기</a>  </td>  <td width="98" bgcolor="#f9f9f9" align="right" style="text-align:right; padding-right:9px; border-right:1px solid #cecece; border-bottom:1px solid #cecece;">   <span style="float:right;"><span style="font-size:9px; font-family:Verdana, sans-serif; color:#444;">&copy;&nbsp;</span>&nbsp;<a style="font-family:tahoma; font-size:9px; font-weight:bold; color:#2db400; text-decoration:none;" href="http://www.nhncorp.com" target="_blank">NAVER Corp.</a></span>  </td>  </tr>  </table> </td> </tr>  </table>
-                            </div>
+                            <div id="map" class="col-md-6 map-style"></div>
+                            <script type="text/javascript" src="http://apis.daum.net/maps/maps3.js?apikey=ca5bad0bcc0da2cece13053c9e1c97ca"></script>
+                            <script type-"text/javascript" src="./js/map.js"></script>
+
+                            <!--<table cellpadding="0" cellspacing="0" width="536"> <tr> <td style="border:1px solid #cecece;"><a href="http://map.naver.com/?menu=location&mapMode=0&lat=37.5192242&lng=126.9003248&dlevel=11&__fromRestorer=true&__pinOnly=false&query=&searchCoord=&mpx=37.5187846%2C126.9014418%3AZ11%3A0.0271820%2C0.0113995&tab=1&pinId=37288788&pinType=site&enc=b64" target="_blank"><img src="http://prt.map.naver.com/mashupmap/print?key=p1449648414887_-598016622" width="534" height="418" alt="지도 크게 보기" title="지도 크게 보기" border="0" style="vertical-align:top;"/></a></td> </tr> <tr> <td>  <table cellpadding="0" cellspacing="0" width="100%">  <tr>  <td height="30" bgcolor="#f9f9f9" align="left" style="padding-left:9px; border-left:1px solid #cecece; border-bottom:1px solid #cecece;">   <span style="font-family: tahoma; font-size: 11px; color:#666;">2015.12.9</span>&nbsp;<span style="font-size: 11px; color:#e5e5e5;">|</span>&nbsp;<a style="font-family: dotum,sans-serif; font-size: 11px; color:#666; text-decoration: none; letter-spacing: -1px;" href="http://map.naver.com/?menu=location&mapMode=0&lat=37.5192242&lng=126.9003248&dlevel=11&__fromRestorer=true&__pinOnly=false&query=&searchCoord=&mpx=37.5187846%2C126.9014418%3AZ11%3A0.0271820%2C0.0113995&tab=1&pinId=37288788&pinType=site&enc=b64" target="_blank">지도 크게 보기</a>  </td>  <td width="98" bgcolor="#f9f9f9" align="right" style="text-align:right; padding-right:9px; border-right:1px solid #cecece; border-bottom:1px solid #cecece;">   <span style="float:right;"><span style="font-size:9px; font-family:Verdana, sans-serif; color:#444;">&copy;&nbsp;</span>&nbsp;<a style="font-family:tahoma; font-size:9px; font-weight:bold; color:#2db400; text-decoration:none;" href="http://www.nhncorp.com" target="_blank">NAVER Corp.</a></span>  </td>  </tr>  </table> </td> </tr>  </table>-->
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <h3>주소 및 연락처</h3>
